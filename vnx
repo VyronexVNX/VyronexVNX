@@ -1,0 +1,12 @@
+{
+  "id": "vyronexvnx",
+  "name": "VyronexVNX",
+  "address": "0xeb55A55C384095cED21587aFbe7418b7c9AE40cb",
+  "symbol": "VNX",
+  "chain": "Binance",
+  "url": "https://pancakeswap.finance/swap?outputCurrency=0xeb55A55C384095cED21587aFbe7418b7c9AE40cb&chainId=56",
+  "twitter": "https://twitter.com/", 
+  "telegram": "https://t.me/",
+  "description": "VyronexVNX (VNX) is a BEP-20 token on BNB Smart Chain.",
+  "logo": "https://raw.githubusercontent.com/VyronexVNX/dimension-adapters/master/projects/logos/VNX.png"
+}
